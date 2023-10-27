@@ -1,0 +1,386 @@
+[33mcommit 18ec90a3d4f55024a73e3db4f168a864db0f0c53[m[33m ([m[1;36mHEAD -> [m[1;32mr_objetos_bagl[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: juanmanuelgomezalonso <sonorock4@gmail.com>
+Date:   Mon Oct 23 09:36:33 2023 -0600
+
+    ajuste del git ignore
+
+[33mcommit df73cd206988eca9eeb36d4864df68c5f4db3fc2[m
+Merge: 34b7226 0a7a8cb
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:27:37 2023 -0600
+
+    Merge pull request #18 from CTQREPO/semanauno_aev
+    
+    ejercicios semana 1 aev
+
+[33mcommit 34b7226548a1e00dfdfff5b003a62da85db35152[m
+Merge: 57b65b5 b5091bc
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:27:24 2023 -0600
+
+    Merge pull request #17 from CTQREPO/semanauno_fgl
+    
+    Ejercicios semana 1 Fernando Garcia Lazaro
+
+[33mcommit 57b65b5616e34a41818a563cfcff6ac7991452c7[m
+Merge: a2bc5b3 a05986d
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:27:02 2023 -0600
+
+    Merge pull request #16 from CTQREPO/semanauno_jash
+    
+    ejercicios semana 1 jash
+
+[33mcommit a2bc5b3fffd88624fade697f934aa7b7d62a242b[m
+Merge: 8a5ddfe d30d4aa
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:26:49 2023 -0600
+
+    Merge pull request #15 from CTQREPO/semanauno_JMGA
+    
+    ejercicios semana 1 JMGA
+
+[33mcommit 8a5ddfef7a46f1375c2efde53e52ab8906ce5355[m
+Merge: 48467fd 478ef61
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:26:38 2023 -0600
+
+    Merge pull request #19 from CTQREPO/semanauno_yvao
+    
+    ejercicios semana 1 yvao
+
+[33mcommit 48467fd1abca4104558b0a83ca916305d8594a69[m
+Merge: b3e47df 3e224d9
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:26:24 2023 -0600
+
+    Merge pull request #20 from CTQREPO/semanauno_liea
+    
+    ejercicios semana 1 liea
+
+[33mcommit b3e47df17e394fc2cc3628352f8f210e2c3f35e4[m
+Merge: e22a43a ee67348
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:26:11 2023 -0600
+
+    Merge pull request #21 from CTQREPO/semanauno_bagl
+    
+    ejercicios semana 1 bagl
+
+[33mcommit e22a43ace03c24ac1d8c57a8ff7fda0e26dc9987[m
+Merge: 82906c4 c19e9f4
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:25:59 2023 -0600
+
+    Merge pull request #22 from CTQREPO/semanauno_sch
+    
+    ejercicios semana 1 sch
+
+[33mcommit 82906c4b7f251217318cb7ba3383eda92ea65a6e[m
+Merge: d0f7733 a1ca37c
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:25:49 2023 -0600
+
+    Merge pull request #23 from CTQREPO/semanauno_maaa
+    
+    ejercicios semana 1 maaa
+
+[33mcommit d0f7733f09ef286bd02b7834eea462e3d7353815[m
+Merge: 61f1d00 48b050e
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:25:41 2023 -0600
+
+    Merge pull request #24 from CTQREPO/semnanauno_aaadh
+    
+    ejercicios semana 1 aaadh
+
+[33mcommit 61f1d001fbf73aa4b352f0e365be7b6eebd222a1[m
+Merge: 6540b08 4affb49
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:25:32 2023 -0600
+
+    Merge pull request #25 from CTQREPO/semanauno_jcog
+    
+    ejercicios semana 1 jcog
+
+[33mcommit 6540b0824625966ecf319cac8fc1ebc892296493[m
+Merge: 553c8ff da2f30a
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:25:21 2023 -0600
+
+    Merge pull request #14 from CTQREPO/semanauno_jdtd
+    
+    ejercicios semana 1 jdtd
+
+[33mcommit 553c8ffe2d12dac40ba472325073040919431ba7[m
+Merge: 77fe4ca cbd612b
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Mon Oct 23 09:24:55 2023 -0600
+
+    Merge pull request #13 from CTQREPO/semanauno_xgps
+    
+    ejercicios semana 1 xgps
+
+[33mcommit 0a7a8cbe628ce10b4c99d2223aa3b5b2970c4aa1[m[33m ([m[1;31morigin/semanauno_aev[m[33m)[m
+Author: AdryEVT <arianespinoza77@gmail.com>
+Date:   Mon Oct 23 09:08:39 2023 -0600
+
+    ejercicios semana 1 aev
+
+[33mcommit ee67348ab3142355b8f35a890e71577018da55e2[m[33m ([m[1;31morigin/semanauno_bagl[m[33m, [m[1;32msemanauno_bagl[m[33m)[m
+Author: BrianAGarciaL <abrngl00@gmail.com>
+Date:   Mon Oct 23 09:08:38 2023 -0600
+
+    ejercicios semana 1 bagl
+
+[33mcommit 3e224d98a58645b3783f6e36e7121354c2949a41[m[33m ([m[1;31morigin/semanauno_liea[m[33m)[m
+Author: ivandsi09 <ivandsi94@gmail.com>
+Date:   Mon Oct 23 09:08:37 2023 -0600
+
+    ejercicios semana 1 liea
+
+[33mcommit 48b050ea5a305d74fb93622f2939130c7ad5960e[m[33m ([m[1;31morigin/semnanauno_aaadh[m[33m)[m
+Author: andiarchundia <andrearchundia2@gmail.com>
+Date:   Mon Oct 23 09:08:37 2023 -0600
+
+    ejercicios semana 1 aaadh
+
+[33mcommit b5091bc7f37c92548e0e55a102426bf556950957[m[33m ([m[1;31morigin/semanauno_fgl[m[33m)[m
+Author: lazaro13251 <lazaro13251@gmail.com>
+Date:   Mon Oct 23 09:08:33 2023 -0600
+
+    Ejercicios semana 1 Fernando Garcia Lazaro
+
+[33mcommit da2f30afabaccf94417354d34b603ee745680171[m[33m ([m[1;31morigin/semanauno_jdtd[m[33m)[m
+Author: DanielxDdddxD <electrodanyy@gmail.com>
+Date:   Mon Oct 23 09:08:32 2023 -0600
+
+    ejercicios semana 1 jdtd
+
+[33mcommit a05986d6299ed3275542716aee24111656df3645[m[33m ([m[1;31morigin/semanauno_jash[m[33m)[m
+Author: Jose Alejandro <josesanz2404@gmail.com>
+Date:   Mon Oct 23 09:08:31 2023 -0600
+
+    ejercicios semana 1 jash
+
+[33mcommit c19e9f4e813dfd90cdbd8147a6f384921065ffca[m[33m ([m[1;31morigin/semanauno_sch[m[33m)[m
+Author: Said-Cordero <said.cordero.h@gmail.com>
+Date:   Mon Oct 23 09:08:31 2023 -0600
+
+    ejercicios semana 1 sch
+
+[33mcommit d30d4aa1b0d973e2e148cfccc8df9244406ebd15[m[33m ([m[1;31morigin/semanauno_JMGA[m[33m)[m
+Author: juanmanuelgomezalonso <sonorock4@gmail.com>
+Date:   Mon Oct 23 09:08:30 2023 -0600
+
+    ejercicios semana 1 JMGA
+
+[33mcommit cbd612be574c36b2e0a17dd1e380275133177106[m[33m ([m[1;31morigin/semanauno_xgps[m[33m)[m
+Author: XóchitlGabriela <gaby17_98@outlook.com>
+Date:   Mon Oct 23 09:08:30 2023 -0600
+
+    ejercicios semana 1 xgps
+
+[33mcommit 4affb49083794e9fc1f26f8672ce07f421193f7e[m[33m ([m[1;31morigin/semanauno_jcog[m[33m)[m
+Author: JuanCarlosOrea97 <juancarlosog97@gmail.com>
+Date:   Mon Oct 23 09:08:29 2023 -0600
+
+    ejercicios semana 1 jcog
+
+[33mcommit a1ca37ce8d946b3d61664083c81d02de38d8af40[m[33m ([m[1;31morigin/semanauno_maaa[m[33m)[m
+Author: Badchiquipack <miguel.arriaga.arellano@gmail.com>
+Date:   Mon Oct 23 09:08:28 2023 -0600
+
+    ejercicios semana 1 maaa
+
+[33mcommit 478ef61920428728662519f587d3f396282f300d[m[33m ([m[1;31morigin/semanauno_yvao[m[33m)[m
+Author: yenevy <angelita.vane12@gmail.com>
+Date:   Mon Oct 23 09:08:21 2023 -0500
+
+    ejercicios semana 1 yvao
+
+[33mcommit 77fe4ca5592d0c521f575fe01c21af3c72f48145[m
+Merge: ea9e3dd 2ad9896
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:29:38 2023 -0600
+
+    Merge pull request #1 from CTQREPO/rama_xgps
+    
+    primer practica de git
+
+[33mcommit ea9e3dd000b4da1dff76b04930526fa4b0b4942c[m
+Merge: 52ee079 4df1504
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:29:26 2023 -0600
+
+    Merge pull request #12 from CTQREPO/rama_AEV
+    
+    primer practica de git
+
+[33mcommit 52ee07924a32887d2d74f379d3af326cf187dd27[m
+Merge: 6486b8c eeeb96f
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:29:16 2023 -0600
+
+    Merge pull request #2 from CTQREPO/rama_JMGA
+    
+    primer practica de git
+
+[33mcommit 6486b8c1111dbcae1a044839a105e8e73e107f7e[m
+Merge: ef952d4 09f9ca5
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:29:01 2023 -0600
+
+    Merge pull request #3 from CTQREPO/rama_sch
+    
+    primer practica de git
+
+[33mcommit ef952d4232d9b0da1b66a063f7b67de828741f7a[m
+Merge: 9d8566e 781b7cd
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:28:49 2023 -0600
+
+    Merge pull request #4 from CTQREPO/rama_bagl
+    
+    primer practica de git
+
+[33mcommit 9d8566eaed0d766a727e902d2a56bcab16737958[m
+Merge: 90aff8d b535617
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:28:39 2023 -0600
+
+    Merge pull request #5 from CTQREPO/rama_jash
+    
+    primer practica de git
+
+[33mcommit 90aff8df848f299224cfa94683e46eb628afd2a6[m
+Merge: c637b5b 67ac2bb
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:28:28 2023 -0600
+
+    Merge pull request #6 from CTQREPO/rama_liea
+    
+    primer practica de git
+
+[33mcommit c637b5bd33376fae0ac9473c3dbd6bc7a46138b5[m
+Merge: 2818d7e ad0f1d9
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:28:16 2023 -0600
+
+    Merge pull request #7 from CTQREPO/rama_aadls
+    
+    primer practica de git
+
+[33mcommit 2818d7e0927d4ae190ef363fe530ab368431ab29[m
+Merge: a597120 74c519a
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:28:05 2023 -0600
+
+    Merge pull request #8 from CTQREPO/rama_jdtd
+    
+    primer practica de git
+
+[33mcommit a597120d4f2751cc7ee6be5221bb01ce19bfd3aa[m
+Merge: 316e1bc 0095cf4
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:27:56 2023 -0600
+
+    Merge pull request #9 from CTQREPO/rama_yvao
+    
+    primer practica de git
+
+[33mcommit 316e1bc3ce5ea121d819451e5e2ef254ef28a3b9[m
+Merge: 940cc12 2cbecbb
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:27:44 2023 -0600
+
+    Merge pull request #11 from CTQREPO/rama_maaa
+    
+    primer practica de git
+
+[33mcommit 940cc1286ade6a8efed51f2aeab0ead1f6867f1c[m
+Merge: 6b53c81 094d1fe
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 10:27:29 2023 -0600
+
+    Merge pull request #10 from CTQREPO/rama_jcog
+    
+    primer practica de git
+
+[33mcommit 09f9ca5df81974f357bbecfc078e48a7256074af[m[33m ([m[1;31morigin/rama_sch[m[33m)[m
+Author: Said-Cordero <said.cordero.h@gmail.com>
+Date:   Fri Oct 20 09:59:34 2023 -0600
+
+    primer practica de git
+
+[33mcommit 781b7cdf8476a30cc00b9b9f6d6f216dd9d965f6[m[33m ([m[1;31morigin/rama_bagl[m[33m, [m[1;32mrama_bagl[m[33m)[m
+Author: BrianAGarciaL <abrngl00@gmail.com>
+Date:   Fri Oct 20 09:58:57 2023 -0600
+
+    primer practica de git
+
+[33mcommit eeeb96f9d64b2fb51876b151e0a96accde9dd843[m[33m ([m[1;31morigin/rama_JMGA[m[33m)[m
+Author: juanmanuelgomezalonso <sonorock4@gmail.com>
+Date:   Fri Oct 20 09:58:53 2023 -0600
+
+    primer practica de git
+
+[33mcommit 094d1fedf080e563b226d89b19f1b37b86fcbd2e[m[33m ([m[1;31morigin/rama_jcog[m[33m)[m
+Author: JuanCarlosOrea97 <juancarlosog97@gmail.com>
+Date:   Fri Oct 20 09:58:07 2023 -0600
+
+    primer practica de git
+
+[33mcommit 74c519af1bd2b7468bb817adb8979523b908c045[m[33m ([m[1;31morigin/rama_jdtd[m[33m)[m
+Author: DanielxDdddxD <electrodanyy@gmail.com>
+Date:   Fri Oct 20 09:58:00 2023 -0600
+
+    primer practica de git
+
+[33mcommit 2cbecbb118815216c9fcd4e317346d670956113b[m[33m ([m[1;31morigin/rama_maaa[m[33m)[m
+Author: Badchiquipack <miguel.arriaga.arellano@gmail.com>
+Date:   Fri Oct 20 09:57:56 2023 -0600
+
+    primer practica de git
+
+[33mcommit 67ac2bb2398a7c25faf1abef75894e25f0b65fe4[m[33m ([m[1;31morigin/rama_liea[m[33m)[m
+Author: ivandsi09 <ivandsi94@gmail.com>
+Date:   Fri Oct 20 09:57:55 2023 -0600
+
+    primer practica de git
+
+[33mcommit 2ad9896f34345c120363e29a4738096c87a5541c[m[33m ([m[1;31morigin/rama_xgps[m[33m)[m
+Author: XóchitlGabriela <gaby17_98@outlook.com>
+Date:   Fri Oct 20 09:57:53 2023 -0600
+
+    primer practica de git
+
+[33mcommit ad0f1d968b2515f3f7952b5c1c10dab9a1a1e928[m[33m ([m[1;31morigin/rama_aadls[m[33m)[m
+Author: Angel <angel.anselmo2801@gmail.com>
+Date:   Fri Oct 20 09:50:35 2023 -0600
+
+    primer practica de git
+
+[33mcommit 4df1504952f6c27a69e3b7d6579c498319ddfdc9[m[33m ([m[1;31morigin/rama_AEV[m[33m)[m
+Author: Adrian Espinoza <arianespinoza77@gmail.com>
+Date:   Fri Oct 20 09:50:29 2023 -0600
+
+    primer practica de git
+
+[33mcommit b5356170cefcf32da54f6343f805b37178d67ba4[m[33m ([m[1;31morigin/rama_jash[m[33m)[m
+Author: Jose Alejandro <josesanz2404@gmail.com>
+Date:   Fri Oct 20 09:50:23 2023 -0600
+
+    primer practica de git
+
+[33mcommit 0095cf46fef36d01d967aea69b05869206954ae8[m[33m ([m[1;31morigin/rama_yvao[m[33m)[m
+Author: yenevy <angelita.vane12@gmail.com>
+Date:   Fri Oct 20 09:57:47 2023 -0500
+
+    primer practica de git
+
+[33mcommit 6b53c81254cf37c460a74fe492ef6c17f9091860[m[33m ([m[1;31morigin/rama_fgl[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: CTQREPO <145060830+CTQREPO@users.noreply.github.com>
+Date:   Fri Oct 20 08:24:29 2023 -0600
+
+    Initial commit
