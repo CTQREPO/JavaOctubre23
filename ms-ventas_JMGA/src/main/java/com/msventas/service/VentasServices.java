@@ -1,0 +1,18 @@
+package com.msventas.service;
+
+import java.util.List;
+
+import com.persistence.entity.Ventas;
+import com.persistence.request.VentasRequest;
+
+
+
+public interface VentasServices  {
+	Ventas guardar(VentasRequest request);
+	Ventas actualizar(VentasRequest request);
+	Ventas buscar(int id);
+	Ventas buscar(String nombre);
+	String eliminar(int id);
+	List mostrar();
+
+}
