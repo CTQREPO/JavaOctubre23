@@ -1,0 +1,86 @@
+package com.msproductos.request;
+
+import java.sql.Date;
+//import javax.validation.constraints.
+
+import javax.validation.constraints.DecimalMax;
+import javax.validation.constraints.FutureOrPresent;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+
+public class ProductoRequest {
+
+	int productoId;
+	int deptoId;
+	
+	@NotBlank(message="El nombre no puede quedar vacio")
+	@Size(max=20, message="Este atributo solo permite hasta 20 caracteres")
+	String nombre;
+	@FutureOrPresent(message="La fecha no debe ser pasada")
+	Date fechaCad;
+	
+	@DecimalMax(value="999.99", message="El precio de compra no debe exceder 999.99")
+	double precioCompra;
+	@DecimalMax(value="999.99", message="El precio de venta no debe exceder 999.99")
+	double precioVenta;
+	
+	//Validacion de negocio
+	
+	char refrigerado;
+	
+	public ProductoRequest(int productoId, int deptoId, String nombre, Date fechaCad, double precioCompra,
+			double precioVenta, char refrigerado) {
+		this.productoId = productoId;
+		this.deptoId = deptoId;
+		this.nombre = nombre;
+		this.fechaCad = fechaCad;
+		this.precioCompra = precioCompra;
+		this.precioVenta = precioVenta;
+		this.refrigerado = refrigerado;
+	}
+	public int getProductoId() {
+		return productoId;
+	}
+	public void setProductoId(int productoId) {
+		this.productoId = productoId;
+	}
+	public int getDeptoId() {
+		return deptoId;
+	}
+	public void setDeptoId(int deptoId) {
+		this.deptoId = deptoId;
+	}
+	public String getNombre() {
+		return nombre;
+	}
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	public Date getFechaCad() {
+		return fechaCad;
+	}
+	public void setFechaCad(Date fechaCad) {
+		this.fechaCad = fechaCad;
+	}
+	public double getPrecioCompra() {
+		return precioCompra;
+	}
+	public void setPrecioCompra(double precioCompra) {
+		this.precioCompra = precioCompra;
+	}
+	public double getPrecioVenta() {
+		return precioVenta;
+	}
+	public void setPrecioVenta(double precioVenta) {
+		this.precioVenta = precioVenta;
+	}
+	public char getRefrigerado() {
+		return refrigerado;
+	}
+	public void setRefrigerado(char refrigerado) {
+		this.refrigerado = refrigerado;
+	}
+	
+	
+}
